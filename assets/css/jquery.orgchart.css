@@ -109,7 +109,7 @@ div.orgChart div.node {
 }
 .nav {
   background-color: #00060F;
-  padding: 10px 60px;
+  padding: 12px 60px;
   display: flex;
   align-items: center;
 }
@@ -128,4 +128,22 @@ div.orgChart div.node {
   right: 10px;
   cursor: pointer;
 
+}
+
+.pag12{
+  margin-bottom: 20px;
+  padding-top: 50px;
+  margin-left: 5%;
+  max-width: 1000px;/* Defina o tamanho desejado */
+}
+.pag12 .politica-comunicação p{
+  text-align: left ;
+  margin-left: 8%;
+  margin-top: 30px
+}
+
+
+.pag12 p {
+  margin: 10px 0; /* Adicione margens para melhorar a legibilidade */
+  
 }
